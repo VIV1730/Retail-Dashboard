@@ -125,3 +125,4 @@ A dynamic KPI table was created to streamline the dashboard’s metrics:
 
 ## Conclusion
 This dynamic retail dashboard offers a comprehensive solution for analyzing retail data, providing valuable insights into sales, profitability, and customer behavior. By focusing on the key metrics and offering a user-friendly interface, the dashboard is an effective tool for retail managers to make data-driven decisions. Future enhancements like return analysis and market analysis will further strengthen its capabilities, making it an indispensable asset for retail businesses.
+![image](https://github.com/VIV1730/Retail-Dashboard/blob/main/Retail%20Dashboard.pngv)
